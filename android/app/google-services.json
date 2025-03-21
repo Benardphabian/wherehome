@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "639454828821",
+    "firebase_url": "https://my-new-rentify-default-rtdb.firebaseio.com",
+    "project_id": "my-new-rentify",
+    "storage_bucket": "my-new-rentify.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639454828821:android:88f30a6b1743094233711c",
+        "android_client_info": {
+          "package_name": "com.example.real_estate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0ty34mMGopWcbvyUZkihQ5cdoMNLFCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639454828821:android:7255ed9627f9282533711c",
+        "android_client_info": {
+          "package_name": "com.example.rentify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0ty34mMGopWcbvyUZkihQ5cdoMNLFCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639454828821:android:7bff18e70150eac233711c",
+        "android_client_info": {
+          "package_name": "com.example.wherehome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0ty34mMGopWcbvyUZkihQ5cdoMNLFCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
